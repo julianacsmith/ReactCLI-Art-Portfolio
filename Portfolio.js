@@ -13,9 +13,9 @@ const Portfolio = () => {
           </div>
           <h2>Phone Wallpapers</h2>
           <div className={styles.showcase}>
-            <img src={require("./images/Wilbur_Wallpaper.png")}/>
-            <img src={require("./images/Origins_Wallpapers_1.png")}/>
-            <img src={require("./images/Fundy_Wallpaper.jpeg")}/>
+            <img src={require("./images/W_Wallpaper.png")}/>
+            <img src={require("./images/Origins_Wallpapers.png")}/>
+            <img src={require("./images/Fox_Wallpaper.jpeg")}/>
             <img src={require("./images/Someday.png")}/>
           </div>
           <h2>Other Works</h2>
